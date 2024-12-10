@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="left">👋 Hi, I'm Ariel! 👨‍💻</h1>
 
-<!--
-**arielpessoa/arielpessoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Hi, I'm Ariel! 👨‍💻 I'm an 18-year-old developer from Brazil, on an exciting journey into the world of full-stack development. 🌍✨<br><br>This GitHub is where I explore, experiment, and grow—testing my knowledge, learning new technologies, and building projects that reflect my progress. I'm passionate about both front-end and back-end development, and I'm constantly pushing myself to improve and master new skills. ⚡️<br><br>Currently, I'm focused on learning **JavaScript**, **HTML**, and **Python** as I work towards my goal of becoming a skilled **back-end developer**. I'm also eager to dive into **mobile development** to broaden my expertise. 📱💻<br><br>My mission is simple: to become a versatile developer who creates innovative, efficient, and meaningful solutions. I believe in continuous learning and the power of experimentation. 💡🔧<br><br>Feel free to explore my projects, follow my journey, and let's inspire each other to keep growing! 🚀</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
